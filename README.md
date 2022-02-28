@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend.
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on ...
-- 📫 Twitter @ahmdekta
+- 📫 Twitter @ahmd_akta
 
 <!---
 ahmet85/ahmet85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
