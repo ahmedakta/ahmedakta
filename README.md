@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ahmet85
 - 👀 I’m interested in backend.
-- 🌱 I’m currently learning laravel
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Laravel and Flutter :).
 - 📫 Twitter @ahmd_akta
 
 <!---
