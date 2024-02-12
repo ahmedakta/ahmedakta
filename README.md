@@ -6,7 +6,7 @@ Hello 😃 <br>
 
 - 💻 I’m currently practicing on **Flutter**
 
-- 👨‍💻 All of my projects are available at [ahmedakta.com](ahmedakta.com)
+- 👨‍💻 All of my projects are available at (https://www.ahmedakta.com)
 
 - 📝 I write articles sometimes on [https://www.linkedin.com/in/ahmet-akta/](https://www.linkedin.com/in/ahmet-akta/)
 
