@@ -12,7 +12,7 @@ Hello 😃 <br>
 
 - 💬 Ask me about **Laravel , React and Angular js.**
 
-- 📫 How to reach me **ahmedakta@gmail.com**
+- 📫 How to reach me **ahmdekta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
