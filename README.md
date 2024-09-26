@@ -4,13 +4,13 @@
 <p align="left"> <a href="https://twitter.com/ahmd_akta" target="blank"><img src="https://img.shields.io/twitter/follow/ahmd_akta?logo=twitter&style=for-the-badge" alt="ahmd_akta" /></a> </p>
 Hello 😃 <br>
 
-- 💻 I’m currently practicing on **Flutter**
+- 💻 I’m currently practicing on **Flutter & React Native**
 
-- 👨‍💻 All of my projects are available at (https://ahmedakta.com)
+- 👨‍💻 All of my projects are available at (https://scritp.com)
 
 - 📝 I write articles sometimes on [https://www.linkedin.com/in/ahmet-akta/](https://www.linkedin.com/in/ahmet-akta/)
 
-- 💬 Ask me about **Laravel , React and Angular js.**
+- 💬 Ask me about **Laravel , React and Vue js.**
 
 - 📫 How to reach me **ahmdekta@gmail.com**
 
