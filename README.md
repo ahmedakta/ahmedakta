@@ -6,11 +6,11 @@ Hello 😃 <br>
 
 - 💻 I’m currently practicing on **Flutter & React Native**
 
-- 👨‍💻 All of my projects are available at (https://scritp.com)
+- 👨‍💻 checkout my software brand (https://scritp.com)
 
-- 📝 I write articles sometimes on [https://www.linkedin.com/in/ahmet-akta/](https://www.linkedin.com/in/ahmet-akta/)
+- 📝 I write articles on [https://www.linkedin.com/in/ahmet-akta/](https://www.linkedin.com/in/ahmet-akta/)
 
-- 💬 Ask me about **Laravel , React and Vue js.**
+- 💬 Ask me about **Laravel , NextJS and Vue js.**
 
 - 📫 How to reach me **ahmdekta@gmail.com**
 
